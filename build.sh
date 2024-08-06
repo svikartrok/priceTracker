@@ -1,0 +1,1 @@
+docker build --no-cache -t pricetracker:0.0.2 .
