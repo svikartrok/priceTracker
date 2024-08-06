@@ -8,5 +8,7 @@ To build the docker image:
 1. Copy this folder (exculde data) to `@debian-doc/home/doc-debian/Desktop/python/`
 (TODO maybe scp command?)
 1. Run `sudo build.sh`
-1. Drop image?
+1. Drop old container:
+    1. `sudo docker container ls --all`
+    1. `sudo docker container rm <id>`
 1. Run `sudo runPriceTracker.sh`
