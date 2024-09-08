@@ -1,3 +1,7 @@
 ﻿product_id,product,alert_price,css_selector,active,url
 1,DS923+,600,.taxedPrice,D,https://www.mlacom.si/zunanje%20naprave/nas-naprave/i_2907938_synology-diskstation-ds923-nas-streznik
 2,enaa DS923+,600,.single-product-price,D,https://www.enaa.com/nas-sistemi/synology-ds923-za-4-diske-nas-streznik
+3,Pixel 7 128GB,400,.taxedPrice,D,https://www.mlacom.si/google/i_2895409_google-pixel-7-128gb-obsidian-crn-pametni-mobilni-telefon
+4,Pixel 7 256GB,400,.taxedPrice,D,https://www.mlacom.si/google/i_2895410_google-pixel-7-256gb-obsidian-crn-pametni-mobilni-telefon
+5,enaa Pixel 7 128GB,400,.single-product-price,D,https://www.enaa.com/pametni-telefoni/google-pixel-7-ds-128-8-5g-bk-google-pixel-7-ds-128-8-5g-obsidian-bla
+5,enaa Pixel 7 256GB,400,.single-product-price,D,https://www.enaa.com/pametni-telefoni/google-pixel-7-ds-256-8-5g-bk-google-pixel-7-ds-256-8-5g-obsidian-bla
